@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Pod
 metadata:
   name: multicontainer
-  lables:
+  labels:
     purpose: multiconatainer
 spec:
  containers:
