@@ -4,7 +4,7 @@ metadata:
   name: service-demo
   # These labels are used to register this pod with service
   labels:
-   # project: roboshop
+    project: roboshop
     component: frontend
     environment: dev
 spec:
