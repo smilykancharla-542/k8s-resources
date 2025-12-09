@@ -13,5 +13,5 @@ spec:
      ports:
      - containerPort: 80
      envFrom:
-    - configMapRef:
+     - configMapRef:
         name: pod-config
